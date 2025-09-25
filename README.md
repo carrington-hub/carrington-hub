@@ -9,6 +9,7 @@ I'm a student and aspiring Electrical Engineer interested in embedded systems, P
 
 ## Projects
 - [Event Budget Calculator](https://github.com/carrington-hub/event-budget-calculator): Python program to calculate event costs.
+- [Monthly Budget Calculator](https://github.com/carrington-hub/budget---calculator): Python program to calculate monthly budget.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/carrington-davis-b58b66276)
