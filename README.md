@@ -1,6 +1,6 @@
 # Hi, I'm Carrington 👋
 
-U.S. Air Force veteran — 6 years as an EC-130 Airborne Maintenance 
+U.S. Air Force veteran — 3 years as an EC-130 Airborne Maintenance 
 Technician maintaining avionics and electronic warfare systems in 
 operational environments. Now pursuing Electrical Engineering with 
 a focus on semiconductor devices and fabrication.
